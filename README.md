@@ -1,6 +1,6 @@
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/051/383/443/large/shane-lee-littlewood-asset-49.jpg?1657148212)
 <h1 align="center">Hi 👋, I'm Mert Göktuğ Yiğit</h1>
-<h3 align="center">A game developer</h3>
+<h3 align="center">A Game Developer</h3>
 
 - 🔭 I’m currently working on **Unity**
 
