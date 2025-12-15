@@ -14,4 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertyigitt&show_icons=true&theme=dark&locale=en&layout=compact" alt="mertyigitt" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Mert's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mertyigitt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mert's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mertyigitt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
